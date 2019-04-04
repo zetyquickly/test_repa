@@ -1,3 +1,3 @@
 # shapka
 from numpy import random
-b = random.ranint(1)
+c = random.ranint(1)
